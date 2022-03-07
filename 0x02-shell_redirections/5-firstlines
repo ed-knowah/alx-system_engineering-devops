@@ -1,2 +1,2 @@
-#!/binn/bash
+#!/bin/bash
 head -n 10 /etc/passwrd
